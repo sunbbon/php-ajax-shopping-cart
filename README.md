@@ -1,7 +1,9 @@
 In this post, we will see a simple PHP Ajax example for making a shopping cart application using Bootstrap Popover. This PHP Ajax shopping cart application is explicitly kept easy and as less as available. If you want to get this script then You can just download this script and simply customize it as per your requirement. Here, we have load a list of items for shopping cart from the mysql database by using Jquery Ajax. For every item, we can enter item quantity as per our need and simply add into cart by using Ajax with PHP. The cart details will be stored in the PHP session and which we will fetch by using Ajax function call. Here we will display shopping cart details into Bootstrap popover. So we have to just click on anchor tag and Bootstrap popover will be slide down on web page with shopping cart details. In this shopping cart we can remove single product item also and we can also clear whole shopping cart by single click using Ajax, so here ajax will send ajax request to php script and it will clear session item, so whole shopping cart will be empty.
 
 
-// From  https://www.webslesson.info/2018/04/shopping-cart-by-using-bootstrap-popover-with-ajax-php.html
+// From:  https://www.webslesson.info/2018/04/shopping-cart-by-using-bootstrap-popover-with-ajax-php.html
+
+// Demo:  http://demo.webslesson.info/bootstrap-popover-cart/
 
 Bootstrap Popover for Shopping Cart
 
